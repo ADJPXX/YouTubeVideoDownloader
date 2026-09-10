@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeVideoDownloader", "YouTubeVideoDownloader\YouTubeVideoDownloader.csproj", "{1753CB76-6CB4-4B89-8898-0F55BB77E40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1753CB76-6CB4-4B89-8898-0F55BB77E40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1753CB76-6CB4-4B89-8898-0F55BB77E40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1753CB76-6CB4-4B89-8898-0F55BB77E40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1753CB76-6CB4-4B89-8898-0F55BB77E40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
